@@ -1,0 +1,12 @@
+E:\codes\myC\GuyangLib\bin\Release\net7.0\GuyangLib.deps.json
+E:\codes\myC\GuyangLib\bin\Release\net7.0\GuyangLib.dll
+E:\codes\myC\GuyangLib\bin\Release\net7.0\GuyangLib.pdb
+E:\codes\myC\GuyangLib\obj\Release\net7.0\GuyangLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes\myC\GuyangLib\obj\Release\net7.0\GuyangLib.AssemblyInfoInputs.cache
+E:\codes\myC\GuyangLib\obj\Release\net7.0\GuyangLib.AssemblyInfo.cs
+E:\codes\myC\GuyangLib\obj\Release\net7.0\GuyangLib.csproj.CoreCompileInputs.cache
+E:\codes\myC\GuyangLib\obj\Release\net7.0\GuyangLib.sourcelink.json
+E:\codes\myC\GuyangLib\obj\Release\net7.0\GuyangLib.dll
+E:\codes\myC\GuyangLib\obj\Release\net7.0\refint\GuyangLib.dll
+E:\codes\myC\GuyangLib\obj\Release\net7.0\GuyangLib.pdb
+E:\codes\myC\GuyangLib\obj\Release\net7.0\ref\GuyangLib.dll

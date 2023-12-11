@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TargetFramework>net7.0</TargetFramework>
+    <PackageId>GuyangLib</PackageId>
+    <Version>1.0.2</Version>
+    <Authors>Guyang</Authors>
+    <Company>Sunny</Company>
+    <PackageDescription>个人工具库</PackageDescription>
+    <RepositoryUrl>https://github.com/guyangxq/GuYangLib</RepositoryUrl>
+  </PropertyGroup>
+</Project>
