@@ -8,26 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\GuYang\\.nuget\\packages\\": {}
+    "C:\\Users\\Guyang\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.2",
+    "version": "1.0.6",
     "restore": {
-      "projectUniqueName": "E:\\codes\\myC\\GuyangLib\\GuyangLib.csproj",
+      "projectUniqueName": "D:\\codes\\myCSharp\\GuyangLib\\GuyangLib.csproj",
       "projectName": "GuyangLib",
-      "projectPath": "E:\\codes\\myC\\GuyangLib\\GuyangLib.csproj",
-      "packagesPath": "C:\\Users\\GuYang\\.nuget\\packages\\",
-      "outputPath": "E:\\codes\\myC\\GuyangLib\\obj\\",
+      "projectPath": "D:\\codes\\myCSharp\\GuyangLib\\GuyangLib.csproj",
+      "packagesPath": "C:\\Users\\Guyang\\.nuget\\packages\\",
+      "outputPath": "D:\\codes\\myCSharp\\GuyangLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "E:\\codes\\myC\\GuyangLib\\NuGet.Config",
-        "C:\\Users\\GuYang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "D:\\codes\\myCSharp\\GuyangLib\\NuGet.Config",
+        "C:\\Users\\Guyang\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "https://api.nuget.org/v3/index.json": {},
         "https://nuget.pkg.github.com/guyangxq/index.json": {}
       },
       "frameworks": {
@@ -59,6 +59,10 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
             "version": "[7.0.14, 7.0.14]"
           },
           {

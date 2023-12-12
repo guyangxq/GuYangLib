@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eaHumYvcJxqMyefap+RlCRo55i2icvW5JVuideeiiImukMJznUF28EIis0YickQZ9hegGxF48DuCtCwicsZQxg==",
+  "success": true,
+  "projectFilePath": "D:\\codes\\myCSharp\\GuyangLib\\TestLib\\TestLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guyang\\.nuget\\packages\\guyanglib\\1.0.5\\guyanglib.1.0.5.nupkg.sha512",
+    "C:\\Users\\Guyang\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Guyang\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Guyang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Guyang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

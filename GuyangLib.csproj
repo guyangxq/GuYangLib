@@ -2,14 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
+    <OutputType>Exe</OutputType>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <TargetFramework>net7.0</TargetFramework>
     <PackageId>GuyangLib</PackageId>
-    <Version>1.0.2</Version>
+    <Version>1.0.6</Version>
     <Authors>Guyang</Authors>
     <Company>Sunny</Company>
     <PackageDescription>个人工具库</PackageDescription>
     <RepositoryUrl>https://github.com/guyangxq/GuYangLib</RepositoryUrl>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute> 
   </PropertyGroup>
 </Project>

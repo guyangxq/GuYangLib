@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GuyangLib</id>
+    <version>1.0.5</version>
+    <authors>Guyang</authors>
+    <description>个人工具库</description>
+    <repository type="git" url="https://github.com/guyangxq/GuYangLib" commit="1ca6096b31a6e72ae992c96f0139b2bba4eaca47" />
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\codes\myCSharp\GuyangLib\bin\Release\net7.0\GuyangLib.runtimeconfig.json" target="lib\net7.0\GuyangLib.runtimeconfig.json" />
+    <file src="D:\codes\myCSharp\GuyangLib\bin\Release\net7.0\GuyangLib.dll" target="lib\net7.0\GuyangLib.dll" />
+  </files>
+</package>

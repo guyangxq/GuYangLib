@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "GuyangLib/1.0.5": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/GuyangLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GuyangLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuyangLib/1.0.5": {
+      "type": "project",
+      "path": "../GuyangLib.csproj",
+      "msbuildProject": "../GuyangLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "GuyangLib >= 1.0.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Guyang\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\codes\\myCSharp\\GuyangLib\\TestLib\\TestLib.csproj",
+      "projectName": "TestLib",
+      "projectPath": "D:\\codes\\myCSharp\\GuyangLib\\TestLib\\TestLib.csproj",
+      "packagesPath": "C:\\Users\\Guyang\\.nuget\\packages\\",
+      "outputPath": "D:\\codes\\myCSharp\\GuyangLib\\TestLib\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "D:\\codes\\myCSharp\\GuyangLib\\NuGet.Config",
+        "C:\\Users\\Guyang\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/guyangxq/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\codes\\myCSharp\\GuyangLib\\GuyangLib.csproj": {
+              "projectPath": "D:\\codes\\myCSharp\\GuyangLib\\GuyangLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
