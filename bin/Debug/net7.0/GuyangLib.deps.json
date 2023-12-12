@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "GuyangLib/1.0.5": {
+      "GuyangLib/1.0.7": {
         "runtime": {
           "GuyangLib.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "GuyangLib/1.0.5": {
+    "GuyangLib/1.0.7": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

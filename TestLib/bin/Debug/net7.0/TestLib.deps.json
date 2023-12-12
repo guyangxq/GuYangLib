@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v7.0": {
       "TestLib/1.0.0": {
         "dependencies": {
-          "GuyangLib": "1.0.5"
+          "GuyangLib": "1.0.7"
         },
         "runtime": {
           "TestLib.dll": {}
         }
       },
-      "GuyangLib/1.0.5": {
+      "GuyangLib/1.0.7": {
         "runtime": {
           "GuyangLib.dll": {}
         }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "GuyangLib/1.0.5": {
+    "GuyangLib/1.0.7": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

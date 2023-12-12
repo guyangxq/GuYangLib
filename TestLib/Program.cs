@@ -1,3 +1,6 @@
-﻿Console.WriteLine("hello Testlib");
+﻿using GuyangLib;
 
-Sample.SayHi();
+Console.WriteLine("hello Testlib");
+
+var utils=new Utils();
+Utils.Info();

@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "GuyangLib/1.0.5": {
+      "GuyangLib/1.0.7": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
@@ -15,7 +15,7 @@
     }
   },
   "libraries": {
-    "GuyangLib/1.0.5": {
+    "GuyangLib/1.0.7": {
       "type": "project",
       "path": "../GuyangLib.csproj",
       "msbuildProject": "../GuyangLib.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "GuyangLib >= 1.0.5"
+      "GuyangLib >= 1.0.7"
     ]
   },
   "packageFolders": {
